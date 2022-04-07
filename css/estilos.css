@@ -65,3 +65,13 @@ img{
     border: 2px solid #9cc76b;
     background: none;
 }
+
+.galeria{
+    margin: 20px;
+    
+}
+
+.galeria h1{
+    font-size: 40px;
+    text-align: center;
+}
