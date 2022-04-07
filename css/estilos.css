@@ -117,3 +117,26 @@ img{
 
 }
 
+.banner2{
+    height: 50vh;
+    color: #fff;
+    position: relative;
+    background: url('../img/banner1.jpg');
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+}
+
+.banner2 h2{
+    font-size: 28px;
+}
+
+.banner2_descripcion{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+}
