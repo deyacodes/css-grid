@@ -140,3 +140,10 @@ img{
     transform: translateX(-50%) translateY(-50%);
 
 }
+
+.footer{
+    background: #292929;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
