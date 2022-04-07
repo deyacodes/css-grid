@@ -65,3 +65,31 @@ img{
     border: 2px solid #9cc76b;
     background: none;
 }
+
+.galeria {
+    margin: 20px;
+}
+
+.galeria h1{
+    font-size: 48px;
+    text-align: center;
+}
+
+.team h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.team{
+    background: #f6f6f6;
+    padding: 30px;
+}
+
+.team_columna img{
+    border-radius: 50%;
+}
+
+.team p{
+    text-align: justify;
+}
+
