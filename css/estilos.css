@@ -70,12 +70,12 @@ img{
     margin: 20px;
 }
 
-.galeria h1{
+.galeria h2{
     font-size: 48px;
     text-align: center;
 }
 
-.team h1{
+.team h2{
     font-size: 40px;
     text-align: center;
 }
@@ -91,5 +91,29 @@ img{
 
 .team p{
     text-align: justify;
+}
+
+.tema_grid{
+    display: grid;
+    gap: 30px;
+}
+
+.info h2{
+    color: #9cc76b;
+    font-size: 30px;
+}
+
+.info{
+    text-align: center;
+}
+
+.info_columna{
+    margin: 20px;
+}
+
+.info .contenedor {
+    display: grid;
+    gap: 10px;
+
 }
 
