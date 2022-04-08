@@ -69,7 +69,7 @@ img{
 }
 
 .galeria {
-    margin: 20px;
+    margin: 10px;
 }
 
 .galeria h2{
@@ -99,7 +99,7 @@ h2{
     text-align: justify;
 }
 
-.tema_grid{
+.team_grid{
     display: grid;
     gap: 30px;
 }
@@ -192,6 +192,7 @@ h2{
 }
 
 @media(min-width:1024px){
+
     .contenedor{
         width: 1000px;
     }
